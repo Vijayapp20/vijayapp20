@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Vijayprasanth Punniyamoorthy 👋[span_0](start_span)[span_0](end_span)
+# Hi there, I'm Vijayprasanth Punniyamoorthy 👋
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=550&lines=Java+Software+Engineer;Spring+Boot+%26+Microservices+Specialist;Enterprise+ETL+Backend+Developer;Clean+Code+%26+API+Architect" alt="Typing SVG" />
