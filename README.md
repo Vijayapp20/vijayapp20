@@ -18,11 +18,11 @@
 
 ### 👨‍💻 About Me
 
-- 💼 **Java Software Engineer** with **3.3+ years** of professional experience designing, building, and deploying scalable web applications and enterprise-grade ETL solutions[span_1](start_span)[span_1](end_span).
-- ⚙️ **Core Focus:** Building high-throughput RESTful Microservices, database query optimization, and complex backend business logic[span_2](start_span)[span_2](end_span).
-- 🚀 **Currently Building:** Enterprise ETL pipelines and extraction modules for **DataZap**[span_3](start_span)[span_3](end_span).
-- 🌐 **Portfolio:** Check out my work at [vijayprasanthportfolio.vercel.app](https://vijayprasanthportfolio.vercel.app)[span_4](start_span)[span_4](end_span).
-- 📍 **Location:** Tamil Nadu, India[span_5](start_span)[span_5](end_span).
+- 💼 **Java Software Engineer** with **3.3+ years** of professional experience designing, building, and deploying scalable web applications and enterprise-grade ETL solutions.
+- ⚙️ **Core Focus:** Building high-throughput RESTful Microservices, database query optimization, and complex backend business logic.
+- 🚀 **Currently Building:** Enterprise ETL pipelines and extraction modules for **DataZap**.
+- 🌐 **Portfolio:** Check out my work at [vijayprasanthportfolio.vercel.app](https://vijayprasanthportfolio.vercel.app)
+- 📍 **Location:** Tamil Nadu, India
 
 ---
 
@@ -37,12 +37,12 @@
 
 #### **Databases & ORM**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,hibernate" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,oracle,hibernate" alt="Databases" />
 </p>
 
-#### **Tools, DevOps & Testing**
+#### **Web & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,gitlab,maven,postman" alt="DevOps & Tools" />
+  <img src="https://skillicons.dev/icons?i=jquery,git,gitlab,maven,postman" alt="Web & Tools" />
 </p>
 
 </div>
@@ -51,12 +51,15 @@
 
 ### 💼 Experience Highlights
 
-* **Software Engineer | ChainSys India Pvt Ltd** *(Apr 2025 – Present)*[span_6](start_span)[span_6](end_span)
-  * Architected backend **Data Object** & extraction modules for the enterprise-scale **DataZap** ETL platform[span_7](start_span)[span_7](end_span).
-  * Implemented incremental and full extraction workflows, reducing query latency and optimizing bulk data ingestion[span_8](start_span)[span_8](end_span).
-* **IT Analyst (Java Developer) | UTinnovations** *(Apr 2023 – Mar 2025)*[span_9](start_span)[span_9](end_span)
-  * Developed secure RESTful Microservices using **Spring Boot**, **Spring Data JPA**, and **Spring Security (JWT)**[span_10](start_span)[span_10](end_span).
-  * Modularized monolithic legacy logic into maintainable, container-ready services[span_11](start_span)[span_11](end_span).
+* **Software Engineer | ChainSys India Pvt Ltd** *(Apr 2025 – Present)*
+  * Architected backend **Data Object** & extraction modules for the enterprise-scale **DataZap** ETL platform.
+  * Implemented incremental and full extraction workflows, reducing query latency and optimizing bulk data ingestion.
+  * Formulated centralized error handling and unified logging with **SLF4j**, cutting down debugging time.
+
+* **IT Analyst (Java Developer) | UTinnovations** *(Apr 2023 – Mar 2025)*
+  * Developed secure RESTful Microservices using **Spring Boot**, **Spring Data JPA**, and **Spring Security (JWT)**.
+  * Modularized monolithic legacy logic into maintainable, container-ready services.
+  * Diagnosed and resolved high-priority production bugs, lowering post-release incident volume.
 
 ---
 
